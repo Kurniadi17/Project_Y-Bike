@@ -1,0 +1,11 @@
+-----------Hidden Creativities-----------
+- Setiap gambar product pada Kawasako dan Vixian memiliki detail masing - masing
+- Pada gambar setiap product kita berikan hover shadow agar saat ingin di klik terlihat lebih menarik
+- Spesifikasi setiap product memiliki detail spesification dropdown jika simbol '+' diklik
+- Kita juga menambahkan tampilan Login dimana user dapat melakukan login terlebih dahulu
+- Lalu pada form home kita menambahkan submit email untuk user yang ingin melakukan subscribe ke website Y-Bike
+- Untuk Header Product kita tambahkan dropdown sehingga user bisa memilih mau ke product Kawasako atau Vixian
+- Pada detail masing-masing product pun jika bagian Nama detail seperti 'Vixian Series'/'Kawasako Series' di klick maka akan kembali ke tampilan product masing-masing
+- Image slider ada di 2 page, 2 slider di home dan 1 slider di reserve
+- Terakhir untuk kembali ke Home bisa melakukan click pada logo Y-Bike kelompok kami
+- Logo juga terdapat pada tab bagian atas
